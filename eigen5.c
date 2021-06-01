@@ -12,7 +12,7 @@ typedef Eigen::Triplet<double> T;
 
 int NX = 1000;
 int NY = 1000;
-int n = NX*NY; // size of the image
+int n = NX*NY; 
 
 const int tx[] = {1, -1, 0, 0};
 const int ty[] = {0, 0, 1, -1};
