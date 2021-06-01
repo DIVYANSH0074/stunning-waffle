@@ -18,5 +18,5 @@ x+8y+9z = 10
 Here last element of each row is constant matrix(B)
 And first 3 elements of each row is elemts of matrix A with coressponding row.
 
-# Eigen library sparse matrix solver example code 
+# Eigen library sparse matrix example code 
 Refer code eigen5.c
