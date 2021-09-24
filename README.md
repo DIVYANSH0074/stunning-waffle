@@ -1,5 +1,6 @@
 # stunning-waffle
 System of linear Equation solver using parallel processing
+Refer code psys.c
 Ax=B
 Number of unknowns: n
 Requirment: text file named "matrix.txt" consist of n*(n+1) elements
